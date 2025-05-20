@@ -1,0 +1,12 @@
+.container {
+  margin-top: 10%;
+}
+h1 {
+  color: #c8102e;
+  font-size: 3rem;
+}
+.logo {
+  margin-top: 30px;
+  width: 200px;
+  height: auto;
+}
